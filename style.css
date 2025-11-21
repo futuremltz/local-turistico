@@ -1,0 +1,52 @@
+:root{
+  font-family: "Alice", serif;
+  background-color: #F5F4F0 ;
+  border-color: #D9D9D9;
+}
+
+h1{
+  font-size: 36px;
+  font-weight: bold;
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 28px;
+  font-weight: bold;
+}
+
+#mini{
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color:#E1624F ;
+}
+
+p{
+font-size: 16px;
+font-weight: normal;
+}
+
+sub{ 
+  font-size: 16px;
+  font-style: italic;
+}
+
+#história{
+  color: #0C51A7;
+}
+
+#Casais{
+  color: #591B98;
+}
+
+#familia{
+  color: #E5245E ;
+}
+
+#Orçamento{
+  color: #E95E10;
+}
